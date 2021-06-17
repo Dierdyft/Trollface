@@ -1,0 +1,51 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@canvacord/emoji-parser": "^1.0.1",
+    "canvacord": "^5.1.0",
+    "canvas": "^2.6.1",
+    "cheerio": "^1.0.0-rc.9",
+    "child-process": "^1.0.2",
+    "discord-buttons": "^3.1.1",
+    "discord-xp": "^1.1.8",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "humanize-duration": "^3.25.1",
+    "image-size": "^1.0.0",
+    "image-url-validator": "^1.0.4",
+    "jspaste": "^7.0.0",
+    "megadb": "^3.2.0",
+    "mongoose": "^5.11.20",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "node-geometry-dash": "^1.1.4",
+    "node-svg2img": "^1.1.0",
+    "pet-pet-gif": "^1.0.8",
+    "quick.db": "^7.1.2",
+    "request": "^2.88.2",
+    "sourcebin": "^4.2.3",
+    "string-progressbar": "^1.0.4",
+    "twemoji-parser": "^12.1.2",
+    "weky": "^1.4.1",
+    "ytdl-core": "^4.7.0",
+    "ytsr": "^3.3.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
